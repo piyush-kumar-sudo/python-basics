@@ -1,2 +1,2 @@
-# python-basic-to-advance
-Here you can learn or use python code basic to advance level 
+# python-basics
+Here you can learn or use basic python code 
